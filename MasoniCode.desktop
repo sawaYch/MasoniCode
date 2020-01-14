@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=MasoniCode
+Icon=masonicode
+GenericName=Masonic code encoder&decoder
+Comment=Develop by SatoSawa
+Exec=/usr/bin/masonicode
+Terminal=false
+Type=Application
+Categories=Utility;
+StartupNotify=true
